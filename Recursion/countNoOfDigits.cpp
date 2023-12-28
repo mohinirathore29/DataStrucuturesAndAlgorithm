@@ -16,10 +16,5 @@ int main(){
    int num = 1234;
    int  finalCount = countNoOfDigit(num);
    cout<<"the no of digit in a number is: "<<finalCount;
-
-
-
-
-    return 0;
-
+   return 0;
 }
