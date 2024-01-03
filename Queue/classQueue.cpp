@@ -86,7 +86,5 @@ int main() {
    else{
            cout << "Q is not empty" << endl;
    }
-
-
   return 0;
 }
